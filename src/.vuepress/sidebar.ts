@@ -156,9 +156,9 @@ export default sidebar({
                     collapsible: true
                 },
                 {
-                    text: "MyBatis-Plus",
+                    text: "MyBatisPlus",
                     icon: "leaf",
-                    prefix: "MyBatis-Plus/",
+                    prefix: "MyBatisPlus/",
                     children: "structure",
                     collapsible: true
                 },
@@ -170,9 +170,9 @@ export default sidebar({
                     collapsible: true
                 },
                 {
-                    text: "Spring MVC",
+                    text: "SpringMVC",
                     icon: "leaf",
-                    prefix: "Spring MVC/",
+                    prefix: "SpringMVC/",
                     children: "structure",
                     collapsible: true
                 },
@@ -191,9 +191,16 @@ export default sidebar({
                     collapsible: true
                 },
                 {
-                    text: "Spring Cloud Alibaba",
+                    text: "SpringCloud",
                     icon: "leaf",
-                    prefix: "Spring Cloud Alibaba/",
+                    prefix: "SpringCloud/",
+                    children: "structure",
+                    collapsible: true
+                },
+                {
+                    text: "SpringCloudAlibaba",
+                    icon: "leaf",
+                    prefix: "SpringCloudAlibaba/",
                     children: "structure",
                     collapsible: true
                 },
