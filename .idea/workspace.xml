@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c915659-e990-47f3-8e10-d5459f3e6565" name="Changes" comment="2023-4-27 09:41:12 代码提交">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Oun4KEZUugfrKTPAaqAmc8YA91" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="application.passwordSafe" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\VSCode-WorkSpace\www.klrss.com\src" />
+      <recent name="E:\VSCode-WorkSpace\www.klrss.com\src\.vuepress" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VuePress-WorkSpace\jinmunan.github.io" />
+      <recent name="E:\VSCode-WorkSpace\www.klrss.com\docs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c915659-e990-47f3-8e10-d5459f3e6565" name="Changes" comment="" />
+      <created>1682419142094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682419142094</updated>
+      <workItem from="1682419143656" duration="121000" />
+      <workItem from="1682501545809" duration="5260000" />
+      <workItem from="1682521564535" duration="7584000" />
+      <workItem from="1682748853434" duration="2883000" />
+      <workItem from="1682752563993" duration="1868000" />
+    </task>
+    <task id="LOCAL-00001" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682502219380</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682502219380</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682502542252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682502542252</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682520489835</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682520489835</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682520929599</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682520929599</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682521241278</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682521241278</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682525231093</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682525231093</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682525355619</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682525355619</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682525465499</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682525465499</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682525639532</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682525639532</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682526320482</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1682526320482</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682558434899</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1682558434899</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2023-4-26 17:40:02 代码提交">
+      <created>1682559113751</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1682559113751</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2023-4-27 09:41:12 代码提交">
+      <created>1682559884552</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1682559884552</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2023-4-27 09:41:12 代码提交">
+      <created>1682751420064</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682751420064</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2023-4-26 17:40:02 代码提交" />
+    <MESSAGE value="2023-4-27 09:41:12 代码提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023-4-27 09:41:12 代码提交" />
+  </component>
+</project>
