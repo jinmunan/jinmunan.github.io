@@ -18,6 +18,11 @@ features:
     details: JDK17API
     link: https://docs.oracle.com/en/java/javase/17/docs/api/index.html
 
+  - title: Vuepress Github Action 部署教程
+    icon: java
+    details: Vuepress Github Action 部署教程
+    link: https://blog.csdn.net/IndexMan/article/details/126185756
+
   - title: 主题
     icon: java
     details: vuepress 主题

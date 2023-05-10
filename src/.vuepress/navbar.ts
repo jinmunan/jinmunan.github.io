@@ -4,8 +4,8 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
     { link: "/", icon: "home", text: "首页" },
     {
-        text: "笔记",
+        text: "有感而发",
         icon: "discover",
-        link: "/About/About/01.about-me"
+        link: "/finally/finally"
     },
 ]);
