@@ -9,7 +9,7 @@ export default hopeTheme({
     url: "https://docs.klrss.com",
   },
   iconAssets: "iconfont", // 图标
-  logo: "/logo.svg",  // logo
+  logo: "/logo.png",  // logo
   repo: "jinmunan/jinmunan.github.io",  // git 仓库
   docsDir: "docs", // 文档路径
   navbar: navbar, // navbar 导航栏
