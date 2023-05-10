@@ -10,6 +10,7 @@ export default hopeTheme({
   },
   iconAssets: "iconfont", // 图标
   logo: "/logo.png",  // logo
+  favicon:"/favicon.ico", // favicon.ico
   repo: "jinmunan/jinmunan.github.io",  // git 仓库
   docsDir: "docs", // 文档路径
   navbar: navbar, // navbar 导航栏
